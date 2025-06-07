@@ -7,7 +7,7 @@
 
 A minimalist and developer-focused CSS library built on top of JetBrains Mono. Designed for fast, accessible, and clean web interfaces with support for dark mode, code styling, and responsive layouts.
 
----
+
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@ A minimalist and developer-focused CSS library built on top of JetBrains Mono. D
 - 🌐 Works with modern browsers
 - 🎨 Compatible with [highlight.js](https://highlightjs.org/)
 
----
+
 
 ## 🔧 Usage
 
